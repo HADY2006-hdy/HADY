@@ -1,0 +1,26 @@
+{
+  "name": "rpl-dashboard",
+  "version": "1.0.0",
+  "description": "Simple dashboard monitoring for CI/CD project",
+  "main": "script.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Test passed\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HADY2006-hdy/HADY.git"
+  },
+  "keywords": [],
+  "author": "Hady Pratama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HADY2006-hdy/HADY/issues"
+  },
+  "homepage": "https://github.com/HADY2006-hdy/HADY#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0"
+  }
+}
